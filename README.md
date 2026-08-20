@@ -133,8 +133,6 @@ The ECU also reports motor status back to the Raspberry Pi over CAN.
 
 # PCB Development
 
-![PCB Design](media/pcb_design.png)
-
 All three ECU boards were designed in **KiCad**.
 
 The PCB development process included:
