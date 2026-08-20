@@ -8,7 +8,7 @@ The project was built as a hands-on study of automotive embedded systems, custom
 
 ## Demo
 
-[![Watch the Vehicle Demo]](https://youtu.be/MoWJwQRdX8E)
+[Watch the Vehicle Demo](https://youtu.be/MoWJwQRdX8E)
 
 The demonstration includes manual driving, RFID authorization, assisted collision protection, live vehicle telemetry, and OpenCV-assisted autonomous obstacle avoidance.
 
