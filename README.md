@@ -344,7 +344,7 @@ Maximum physical speed is estimated rather than encoder-measured because the cur
 
 A complete engineering report documents the project architecture, PCB development, electrical system, CAN protocol, software, safety design, debugging process, validation, and future improvements.
 
-**[Read the full Engineering Report](docs/Engineering_Report.pdf)**
+**[Read the full Engineering Report](docs/Engineering_Report.pdf)** (download pdf!)
 
 ---
 
